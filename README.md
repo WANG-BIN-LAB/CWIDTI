@@ -68,10 +68,6 @@
 >
 > protein.txt: list of protein names.
 >
-> mat_protein_protein.txt : Protein-Protein interaction matrix.
->
-> mat_drug_drug.txt : Drug-Drug interaction matrix.
->
 > mat_protein_drug.txt : Protein-Drug interaction matrix.
 >
 > mat_drug_protein.txt : Drug-Protein interaction matrix.
